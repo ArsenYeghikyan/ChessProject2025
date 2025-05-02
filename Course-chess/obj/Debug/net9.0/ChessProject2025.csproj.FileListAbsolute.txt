@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\bin\Debug\net9.0\ChessProject2025.exe
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\bin\Debug\net9.0\ChessProject2025.deps.json
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\bin\Debug\net9.0\ChessProject2025.runtimeconfig.json
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\bin\Debug\net9.0\ChessProject2025.dll
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\bin\Debug\net9.0\ChessProject2025.pdb
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\obj\Debug\net9.0\ChessProject2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\obj\Debug\net9.0\ChessProject2025.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\obj\Debug\net9.0\ChessProject2025.AssemblyInfo.cs
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\obj\Debug\net9.0\ChessProject2025.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\obj\Debug\net9.0\ChessProject2025.sourcelink.json
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\obj\Debug\net9.0\ChessProject2025.dll
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\obj\Debug\net9.0\refint\ChessProject2025.dll
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\obj\Debug\net9.0\ChessProject2025.pdb
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\obj\Debug\net9.0\ChessProject2025.genruntimeconfig.cache
+C:\Users\user\source\repos\ArsenYeghikyan\Course-chess\obj\Debug\net9.0\ref\ChessProject2025.dll
